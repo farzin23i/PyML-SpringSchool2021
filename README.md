@@ -12,4 +12,4 @@ In these workshops, firstly, I have started by introducing python tools for mani
 Then I lectured about Machine Learning and using libraries to complete an ML project. At last,
 the participants would be supervised to do their final projects in the school.
 
-### For more information you can see the [school page](http://sbuphysics.com/educational/pyml-springschool/)
+### For more information you can see the [school webpage](http://sbuphysics.com/educational/pyml-springschool/)
